@@ -1,5 +1,5 @@
-# Lab 29
-## Project: Django Crud with style
+# Lab 28
+## Project: Django Crud and forms
 ## Author: Ricky E Plaza
 
 ## Setup
